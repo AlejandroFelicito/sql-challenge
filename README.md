@@ -33,11 +33,11 @@ Module 9 Challenge
 
 ## Submission
 Before submitting your Challenge assignment, make sure that you’ve done the following:
-- [X] Create an image file of your ERD: filename QuickDBD-module09-DataModeling_ERD
-- [X] Create a .sql file of your table schemata: filename module09_DataEngineering_schemata.sql
-- [X] Create a .sql file of your queries: filename module09_DataAnalysis.sql
-- [] (Optional) Create a Jupyter notebook of the bonus analysis. (Note: there will be no extra points for completing this.)
-- [X] Ensure that your repository has regular commits and a thorough README.md file
+- [X] Create an image file of your ERD: filename **QuickDBD-module09-DataModeling_ERD.png**
+- [X] Create a .sql file of your table schemata: filename **module09_DataEngineering_schemata.sql**
+- [X] Create a .sql file of your queries: filename **module09_DataAnalysis.sql**
+- [X] (Optional) Create a Jupyter notebook of the bonus analysis (Note: there will be no extra points for completing this.): filename **module09_DataAnalysis.ipynb**
+- [X] Ensure that your repository has regular commits and a thorough **README.md** file
 
 ## Credits 
 * Received comments and guidance from Instructor, Teaching Assistant 
